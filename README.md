@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belaprofile" alt="belaprofile" /></a> </p>
 
-- 🔭 I’m currently working on **Genome-Wide Association Study**
+- 🔭 I’m currently working on **Epigenic Signatures of Alzheimer's**
 
 - 🌱 I’m currently learning **Python frameworks for data analysis, R packages for statistical genomics & Advanced machine learning techniques**
 
